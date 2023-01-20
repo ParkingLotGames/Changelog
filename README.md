@@ -10,4 +10,4 @@ A Unity Editor extension to keep a changelog for each version or build of your g
 
 # //TODO
 
-#### Add summaries, documentation, comments, examples.
+#### Add summaries, documentation, comments, examples, license.
